@@ -36,6 +36,6 @@ This virtual machine requires following:
 
 ![image](https://user-images.githubusercontent.com/79100627/183148860-57f6810a-d217-467d-8943-1e05555b656c.png)
 
-8. Start your virtual machine Password: eecs4480jaychung
+8. Start your virtual machine Password: **eecs4480jaychung**
 
 ![image](https://user-images.githubusercontent.com/79100627/183148955-d460c135-0479-4c81-906b-a54dd9c0c625.png)
