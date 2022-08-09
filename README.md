@@ -12,7 +12,7 @@ This virtual machine requires following:
 
 ![image](https://user-images.githubusercontent.com/79100627/183142784-6d8af3e8-c3fc-4c7d-b256-77867d9402b4.png)
 
-2. <b>Ova</b> file can be downloaded from here: https://drive.google.com/file/d/10dz6RZIF6lju6hLPyUJb0EO9skr_pQGl/view?usp=sharing
+2. <b>Ova</b> file can be downloaded from here: https://drive.google.com/file/d/18dHgdavwqMa8xf_mjuVu5JTQG7BkgAZO/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/79100627/183149052-6b6c9fe4-bd30-4531-b652-a35d35664101.png)
 
